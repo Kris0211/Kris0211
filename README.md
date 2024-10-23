@@ -3,11 +3,14 @@ I am a Graduate (undergrad) of the Lodz University of Technology with a degree i
 In game production, I primarily focus on programming and design (mechanics, gameplay, levels, and UI), though I also have a strong interest in narrative design and VR technologies.
 
 I usually develop games using the Godot engine, though I also have experience working with Unity and an elemental understanding of Unreal Engine.
+![Godot, Unity and Unreal Engine](img/engines.png)
 
 ## My Projects 
 ### 🔭 Public projects I'm working on:
 - ***CarGo!***, a couch co-op courier simulator. Release date will be revealed soon, stay tuned! Wishlist now: https://store.steampowered.com/app/1272780/CarGo/
+![CarGo! banner](img/cargo.png)
 - ***Nycto***, a non-euclidean puzzle-thriller game with an unpararelled atmosphere and unique artstyle. Play the demo: https://liptonleon.itch.io/nycto
+![Nycto gameplay](img/nycto.png)
 - and one yet unnamed project I can't disclose much info about 👀
 
 ### 🌱 Private projects I'm toying around with:
