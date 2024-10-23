@@ -13,7 +13,7 @@ I usually develop games using the Godot engine, though I also have experience wo
 ### 🌱 Private projects I'm toying around with:
 - A turn-based RPG framework in Godot.
 - A simple FPS, PvP game in Unreal Engine.
-- And other small, non-programming related side projects, such as learning animations, characted design and pixel art 😄
+- And other small, non-programming related side projects, such as learning animations, characted design and pixel art 👾
 
 ### 🚢 Finished (or abandoned) projects
 You can find my portfolio on my itch.io page - feel free to download and play these games!
