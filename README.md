@@ -36,7 +36,7 @@ You can find my portfolio on my itch.io page - feel free to download and play th
 
 ## ⚡ Random facts
 - I picked up interest in game development way back in primary school. In high school I made a meme-game which never saw the light of the day... then I joined Digital Night Studio and started working on games for serious.
-- Speaking of Digital Night Studio, I gave a talk about the basics of Godot Engine, combined with a lvie coding session in 2023. I am about to give another talk very soon, too - this time about a more advanced and pretty underexplored topic this time!
+- Speaking of Digital Night Studio, I gave a talk about the basics of Godot Engine, combined with a live coding session in 2023. I am about to give another talk very soon, too - this time about a more advanced and pretty underexplored topic this time!
 - My thesis was focused on researching the impact of FoV on effectiveness of task completion in immersive virtual environments.
 
 <!--
