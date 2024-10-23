@@ -27,6 +27,8 @@ Play the demo: https://liptonleon.itch.io/nycto
 - A simple FPS, PvP game in Unreal Engine.
 - And other small, non-programming related side projects, such as learning animations, characted design and pixel art 👾
 
+![Pixel art character](img/cultist_shadowstep.gif)
+
 ### 🚢 Finished (or abandoned) projects
 You can find my portfolio on my itch.io page - feel free to download and play these games!
 
