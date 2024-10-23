@@ -9,12 +9,15 @@ I usually develop games using the Godot engine, though I also have experience wo
 ## My Projects 
 ### 🔭 Public projects I'm working on:
 - ***CarGo!***, a couch co-op courier simulator. Release date will be revealed soon, stay tuned!
+
 Wishlist now: https://store.steampowered.com/app/1272780/CarGo/
-
 ![CarGo! banner](img/cargo.jpg)
-- ***Nycto***, a non-euclidean puzzle-thriller game with an unpararelled atmosphere and unique artstyle. Play the demo: https://liptonleon.itch.io/nycto
 
+- ***Nycto***, a non-euclidean puzzle-thriller game with an unpararelled atmosphere and unique artstyle.
+
+Play the demo: https://liptonleon.itch.io/nycto
 ![Nycto gameplay](img/nycto.png)
+
 - and one yet unnamed project I can't disclose much info about 👀
 
 ### 🌱 Private projects I'm toying around with:
