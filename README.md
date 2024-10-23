@@ -1,11 +1,10 @@
-## Hey there 👋
-
-### 🙋‍♂️ About me
+## 🙋‍♂️ About me
 I am a Graduate (undergrad) of the Lodz University of Technology with a degree in Applied Computer Science (specialization in Computer Games and Simulations Technologies. I've been creating games for over four years now, starting with the student research circle Digital Night Studio. During the 15th edition of the national ZTGK competition, the teams I was a part of had won 1st place in the Game Development and Mobile Games categories with the games AiPost and Thin LED Line respecively. 
 In game production, I primarily focus on programming and design (mechanics, gameplay, levels, and UI), though I also have a strong interest in narrative design and VR technologies.
 
 I usually develop games using the Godot engine, though I also have experience working with Unity and an elemental understanding of Unreal Engine.
 
+## My Projects 
 ### 🔭 Public projects I'm working on:
 - CarGo!, a couch co-op courier simulator. Release date will be revealed soon, stay tuned! Wishlist now: https://store.steampowered.com/app/1272780/CarGo/
 - Nycto, a non-euclidean puzzle-thriller game with an unpararelled atmosphere and unique artstyle. Play the demo: https://liptonleon.itch.io/nycto
@@ -20,7 +19,7 @@ I usually develop games using the Godot engine, though I also have experience wo
 You can find my portfolio on my itch.io page - feel free to download and play these games!
 Link: https://kris0211.itch.io/
 
-### ⚡ Random facts
+## ⚡ Random facts
 - I picked up interest in game development way back in primary school. In high school I made a meme-game which never saw the light of the day... then I joined Digital Night Studio and started working on games for serious.
 - Speaking of Digital Night Studio, I gave a talk about the basics of Godot Engine, combined with a lvie coding session in 2023. I am about to give another talk very soon, too - this time about a more advanced and pretty underexplored topic this time!
 - My thesis was focused on researching the impact of FoV on effectiveness of task completion in immersive virtual environments.
