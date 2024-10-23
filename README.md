@@ -17,7 +17,8 @@ I usually develop games using the Godot engine, though I also have experience wo
 
 ### 🚢 Finished (or abandoned) projects
 You can find my portfolio on my itch.io page - feel free to download and play these games!
-Link: https://kris0211.itch.io/
+
+**Link: https://kris0211.itch.io/**
 
 ## ⚡ Random facts
 - I picked up interest in game development way back in primary school. In high school I made a meme-game which never saw the light of the day... then I joined Digital Night Studio and started working on games for serious.
