@@ -8,9 +8,9 @@ I usually develop games using the Godot engine, though I also have experience wo
 
 ## My Projects 
 ### 🔭 Public projects I'm working on:
-- ***CarGo!***, a couch co-op courier simulator. Release date will be revealed soon, stay tuned!
+- ***CarGo!***, a couch co-op courier simulator for up to 4 players. 
 
-Wishlist now: https://store.steampowered.com/app/1272780/CarGo/
+Buy now: https://store.steampowered.com/app/1272780/CarGo/
 
 ![CarGo! banner](img/cargo.jpg)
 
