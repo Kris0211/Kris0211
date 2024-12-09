@@ -10,13 +10,13 @@ I usually develop games using the Godot engine, though I also have experience wo
 ### 🔭 Public projects I'm working on:
 - ***CarGo!***, a couch co-op courier simulator for up to 4 players. 
 
-Buy now: [https://store.steampowered.com/app/1272780/CarGo/]
+Buy now: https://store.steampowered.com/app/1272780/CarGo/
 
 ![CarGo! banner](img/cargo.jpg)
 
 - ***Nycto***, a non-euclidean puzzle-thriller game with an unpararelled atmosphere and unique artstyle.
 
-Play the demo: [https://liptonleon.itch.io/nycto]
+Play the demo: https://liptonleon.itch.io/nycto
 
 ![Nycto gameplay](img/nycto.png)
 
@@ -31,7 +31,10 @@ Play the demo: [https://liptonleon.itch.io/nycto]
 
 ### 🚢 Finished projects
 - ***AiPost***, a game created using our own engine which has won the award in Game Development category during ZTGK 2023. A co-op game for two players which later turned into *CarGo*!
-Download here: [[https://liptonleon.itch.io/nycto](https://tollto.itch.io/aipost)]
+  
+Download here: https://tollto.itch.io/aipost
+
+![AiPost main menu](img/aipost.png)
 
 You can find my full portfolio on my ![itch.io](https://kris0211.itch.io/) page - feel free to download and play these games!
 
