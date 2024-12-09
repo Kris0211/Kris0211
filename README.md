@@ -10,29 +10,30 @@ I usually develop games using the Godot engine, though I also have experience wo
 ### 🔭 Public projects I'm working on:
 - ***CarGo!***, a couch co-op courier simulator for up to 4 players. 
 
-Buy now: https://store.steampowered.com/app/1272780/CarGo/
+Buy now: [https://store.steampowered.com/app/1272780/CarGo/]
 
 ![CarGo! banner](img/cargo.jpg)
 
 - ***Nycto***, a non-euclidean puzzle-thriller game with an unpararelled atmosphere and unique artstyle.
 
-Play the demo: https://liptonleon.itch.io/nycto
+Play the demo: [https://liptonleon.itch.io/nycto]
 
 ![Nycto gameplay](img/nycto.png)
 
 - and one yet unnamed project I can't disclose much info about 👀
 
 ### 🌱 Private projects I'm toying around with:
-- A turn-based RPG framework in Godot.
-- A simple FPS, PvP game in Unreal Engine.
+- A turn-based RPG framework in Godot, which also includes tools for designers.
+- A simple multiplayer FPS (PvP) game in Unreal Engine.
 - And other small, non-programming related side projects, such as learning animations, characted design and pixel art 👾
 
 ![Pixel art character](img/cultist_shadowstep.gif)
 
-### 🚢 Finished (or abandoned) projects
-You can find my portfolio on my itch.io page - feel free to download and play these games!
+### 🚢 Finished projects
+- ***AiPost***, a game created using our own engine which has won the award in Game Development category during ZTGK 2023. A co-op game for two players which later turned into *CarGo*!
+Download here: [[https://liptonleon.itch.io/nycto](https://tollto.itch.io/aipost)]
 
-**Link: https://kris0211.itch.io/**
+You can find my full portfolio on my ![itch.io](https://kris0211.itch.io/) page - feel free to download and play these games!
 
 ## ⚡ Random facts
 - I picked up interest in game development way back in primary school. In high school I made a meme-game which never saw the light of the day... then I joined Digital Night Studio and started working on games for serious.
