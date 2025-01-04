@@ -1,5 +1,5 @@
 ## 🙋‍♂️ About me
-I am a Graduate (undergrad) of the Lodz University of Technology with a degree in Applied Computer Science (specialization in Computer Games and Simulations Technologies). I've been creating games for over four years now, starting with the student research circle Digital Night Studio. During the 15th edition of the national ZTGK competition, the teams I was a part of had won 1st place in the Game Development and Mobile Games categories with the games AiPost and Thin LED Line respecively. 
+I am a Graduate (undergrad) of the Lodz University of Technology with a degree in Applied Computer Science (specialization in Computer Games and Simulations Technologies). I've been developing games for over four years now, starting with the student research circle Digital Night Studio. During the 15th edition of the national ZTGK competition, the teams I was a part of had won 1st place in the Game Development and Mobile Games categories with the games AiPost and Thin LED Line respecively. 
 In game production, I primarily focus on programming and design (mechanics, gameplay, levels, and UI), though I also have a strong interest in narrative design and VR technologies.
 
 I usually develop games using the Godot engine, though I also have experience working with Unity and an elemental understanding of Unreal Engine.
