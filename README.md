@@ -8,11 +8,9 @@ I usually develop games using the Godot engine, though I also have experience wo
 
 ## My Projects 
 ### 🔭 Public projects I'm working on:
-- ***CarGo!***, a couch co-op courier simulator for up to 4 players. Made with **Unity**.
+- ***Commando***, an open-source plugin for Godot that adds a visual interface to create and manage in-game events using block-based command editor without a need to write code.
 
-Buy now: https://store.steampowered.com/app/1272780/CarGo/
-
-![CarGo! banner](img/cargo.jpg)
+Check it out: https://github.com/Kris0211/commando
 
 - ***Nycto***, a non-euclidean puzzle-thriller game with an unpararelled atmosphere and unique artstyle. Made with **Unity**.
 
@@ -30,6 +28,13 @@ Play the demo: https://liptonleon.itch.io/nycto
 ![Pixel art character](img/cultist_shadowstep.gif)
 
 ### 🚢 Finished projects
+- ***CarGo!***, a couch co-op courier simulator for up to 4 players. Made with **Unity**.
+
+Buy now: https://store.steampowered.com/app/1272780/CarGo/
+
+![CarGo! banner](img/cargo.jpg)
+
+
 - ***AiPost***, a game created using our **own engine** which has won the award in *Game Development* category during *ZTGK 2023*. A co-op game for two players which later turned into *CarGo*!
   
 Download here: https://tollto.itch.io/aipost
